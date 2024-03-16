@@ -11,10 +11,10 @@ https://master--react-apexcharts.netlify.app/
 
 ## API Reference
 
-#### Get Data
+#### GET DATA
 
 ```
-  GET https://checkinn.co/api/v1/int/requests
+  https://checkinn.co/api/v1/int/requests
 ```
 
 ## Installation
