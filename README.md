@@ -1,7 +1,7 @@
 
 # Apexcharts with API integration
 
-My project utilizes ApexCharts, a powerful React charting library, to create dynamic and visually appealing charts that interact with an API. By integrating ApexCharts with an API, I was able to fetch real-time data and visualize it in line charts. This enables users to gain insights and make informed decisions based on the data presented clearly and intuitively.
+This project utilizes ApexCharts, a powerful React charting library, to create dynamic and visually appealing charts that interact with an API. By integrating ApexCharts with an API, I was able to fetch real-time data and visualize it in a line chart. This enables users to gain insights and make informed decisions based on the data presented clearly and intuitively.
 
 
 ## Demo
