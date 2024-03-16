@@ -1,15 +1,25 @@
-# Demo 
+
+# Apexcharts with API integration
+
+My project utilizes ApexCharts, a powerful React charting library, to create dynamic and visually appealing charts that interact with an API. By integrating ApexCharts with an API, I was able to fetch real-time data and visualize it in line charts. This enables users to gain insights and make informed decisions based on the data presented clearly and intuitively.
+
+
+## Demo
 
 https://master--react-apexcharts.netlify.app/
 
 
-# Getting Started with Create React App
+## API Reference
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Get Data
 
-## Available Scripts
+```
+  GET https://checkinn.co/api/v1/int/requests
+```
 
-In the project directory, you can run:
+## Installation
+
+ In the project directory, you can run:
 
 ### `npm start`
 
@@ -43,3 +53,4 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    
