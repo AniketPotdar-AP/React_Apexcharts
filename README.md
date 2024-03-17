@@ -6,7 +6,7 @@ This project utilizes ApexCharts, a powerful React charting library, to create d
 
 ## Demo
 
-master--react-apexcharts.netlify.app/
+https://master--react-apexcharts.netlify.app/
 
 
 ## API Reference
